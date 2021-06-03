@@ -45,6 +45,31 @@ https://www.python.org/downloads/
 
 ## Features
 * Chatbot of a clothes shop type
+  - Inputs available:
+    - Styles
+    - Vintage
+    - Urban
+    - Grunge
+    - Chic
+    - Casual
+    - Bohemian
+    - Trendy
+    - Girly
+  - Items
+    - T-shirts
+    - Trousers
+    - Hoodies & Sweatshirts
+    - Jackets & Coats
+    - Accessories
+    - Underwear
+    - Shoes
+    - Swimwear
+    - Suits & blazers
+    - Sportswear
+    - Cardigans & Sweaters
+    - Dresses
+    - Lingerie
+    - Skirts
 * Landing page
 
 ## Status
