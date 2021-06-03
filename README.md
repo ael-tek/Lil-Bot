@@ -44,10 +44,11 @@ https://www.python.org/downloads/
 <br><br>
 
 ## Features
-* 
+* Chatbot of a clothes shop type
+* Landing page
 
 ## Status
-Project is: _finished_ since Tuesday, January 12
+Project is: _finished_ since Sunday, June 6
 
 ## Inspiration
-Project inspired by the video game Pokemon and its Pokedex. :trollface:
+Project inspired by the incapacity of most of the e-shop chatbots to find a product that the customer really like :trollface:
