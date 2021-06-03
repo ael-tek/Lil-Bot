@@ -1,50 +1,53 @@
 # Eliza
+> The Turing test as a marketing quest
 
-    An online Pokemon encyclopedia listing all Pokemons’ data.
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Demo](#demo)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
 
-Table of contents
+## General info
+This is a school project which aim was to create an innovative chatbot to help people to grow a better business. We had to to it in pairs.
+<br>We chose to focus on e-commerce businesses. Lil Bot the chatbot allows the user to submit information about the item that he wants to buy. Then, Lil Bot gives back the perfect article corresponding to the criteria. By this mean, people tend to buy more articles and faster, which increase the sales of the e-shop.
+<br><br>We had 42 days to implement the project.
+<br><br>Here, you can find the source code of a demonstration use of Lil Bot in a clothes e-shop, but the algorithm can be adapted to any kind of shop.
 
-    General info
-    Screenshots
-    Technologies
-    Setup
-    Features
-    Status
-    Inspiration
+## Screenshots
+![image](https://user-images.githubusercontent.com/63455059/120621081-de915080-c45d-11eb-9b8c-1caa7028fb0b.png)
 
-General info
+## Demo
 
-This is a school project which aim was to create the mythical Pokedex from the video game Pokemon, listing all Pokemons' caracteristics like their types, evolutions...
+https://user-images.githubusercontent.com/63455059/120627372-e48a3000-c463-11eb-99aa-a743fc5f9070.mp4
 
-I had 37 days to implement the project, and at the same time I had to make two Pre-projects named Postit and Twp which helped me understand the functionning of Laravel's API.
-Screenshots
+## Technologies
+* Python (v.3.9.5)
+* Chatterbot (v.1.0.2)
+* Figma
 
-https://user-images.githubusercontent.com/63455059/104299391-73061100-54c5-11eb-8c44-02d4dc25c279.png
-Technologies
+## Setup
+1- If not done, install Python:
+<br><br>
+https://www.python.org/downloads/
+<br><br><br>
+2- Install Chatterbot (machine learning engine):
+<br><br>
+`pip install chatterbot`
+<br><br><br>
+3- Install prompt_toolkit Python library (interactive command line features):
+<br><br>
+`pip install prompt_toolkit`
+<br><br>
 
-    Laravel - version 5.2
-    Vue.js
-    Php/HTML/CSS/Javascript
+## Features
+* 
 
-Setup
+## Status
+Project is: _finished_ since Tuesday, January 12
 
-If not done, install composer, then do
-
-    composer global require laravel/installer
-    php artisan serve
-    open a browser to 127.0.0.1:8000/login
-
-Features
-
-    Register and Login to the website
-    Search for a specific pokemon
-    Search for an user
-    Access to all users at /users
-    Access to the Pokedex at /pokemons
-
-Status
-
-Project is: finished since Tuesday, January 12
-Inspiration
-
+## Inspiration
 Project inspired by the video game Pokemon and its Pokedex. :trollface:
