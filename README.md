@@ -1,4 +1,4 @@
-# Eliza
+# Lil Bot
 > The Turing test as a marketing quest
 
 ## Table of contents
